@@ -1,10 +1,7 @@
 # ManyNames_ZH
 ManyNames_ZH is the Mandarin Chinese version of the [ManyNames](https://github.com/amore-upf/manynames) dataset. It provides approximately 20 name annotations for 1319 objects in images selected from ManyNames. For an illustration see the image below.
 
-
-|  MN  | 
-|  ----  |
-|  MN  |
+![example](/example.png "example1")
 ## Notation
 | Abbreviation | Description  |
 |  ----  | ----  |
